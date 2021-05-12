@@ -1,38 +1,35 @@
 ### Olá 👋, me chamo Ivoneide Duarte!
 
-<a href="https://www.linkedin.com/in/mehdimabrouki/">
+<a href="">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/mabroukimehdi/">
+<a href="https://www.instagram.com/ivoneide.duarte23/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/mehdi.mabrouki1">
+<a href="https://www.facebook.com/ivoneide.duarte.731/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br />
 <br />
+<p>Sou <strong>Técnica em Mecatrônica Industrial</strong> pela Instituição de ensino, CEPEP - Escola Técnica.</p>
+<p>Sou apaixonada pela área de <strong>Robótica</strong> e atualmente estou fazendo um curso profissionalizante de Robótica na Pixels - Escola de Design e Tecnologia em Fortaleza/CE.</p>
 
-Sou **Técnica em Mecatrônica Industrial** pela Instituição de ensino - CEPEP Escola Técnica. <br/>
-Sou apaixonada pela área de Robótica e atualmente estou fazendo um curso profissionalizante de Robótica na Pixels - Escola de Design e Tecnologia em Fortaleza/CE.
-
-<hr />
 
 **Meus interesses pessoais:**
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1620780167698.png" width="400px" />
 
-- 👩‍💻 Estou estudando backend com **MySQL/MongoDB**, **Express** e utilizando o framework **Node.js**;
-- Trabalhando na *@kabum* como desenvolvedora Full Stack. 
+- 👩‍💻 Estou estudando front-end com **HTML5/CSS3/JS** e utilizo o **Framework Bootstrap**;
+- 👩‍💻 Também estou estudando back-end com **PHP/MySQL**;
 - 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 - 👾 Meus hobbies são: 
-  - Estudar sobre hacking e Lockpick; 
-  - Gravar conteúdos;
-  - Ler livros;
-  - Jogar League of Legends;
-- 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para contato@strongreen.com.
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
+  - Estudar sobre programação web, Arduino, ESP32 e RaspberryPi; 
+  - Também estudo sobre **Impressão 3D**, tenho uma Anet A8 e uma Ender 3 para me auxiliar nos meus projetos;
+  - Ler livros de programação e romances;
+- 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
+- 📫 Envie um e-mail para contato.ivoneideduarte@gmail.com para entrar em contato comigo.
+- 📝 Veja meu <a href="" target="_blank">Currículo</a> para mais informações.
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ivoneideduarte&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Ivoneide Duarte" />
