@@ -29,7 +29,7 @@
   - Ler livros de programação e romances;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Envie um e-mail para contato.ivoneideduarte@gmail.com para entrar em contato comigo.
-- 📝 Veja meu <a href="" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://docs.google.com/document/d/1-d5BYclSMEzv1pjqcW37vxsc-1gfNlBC5sNo_SRQLi4/edit?usp=sharing" target="_blank">Currículo</a> para mais informações.
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ivoneideduarte&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Ivoneide Duarte" />
