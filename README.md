@@ -3,7 +3,7 @@
 <!--<a href="">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>-->
-<a href="https://www.instagram.com/ivoneide.robotic/">
+<a href="https://www.instagram.com/ivoneide.duarte25/">
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/ivoneide.duarte.731/">
@@ -13,7 +13,7 @@
 <br />
 <br />
 <p>Sou <strong>Técnica em Mecatrônica Industrial</strong> pela Instituição de ensino, CEPEP - Escola Técnica.</p>
-<p>Sou apaixonada pela área de <strong>Robótica</strong> e atualmente estou fazendo um curso profissionalizante de Robótica na Pixels - Escola de Design e Tecnologia em Fortaleza/CE.</p>
+<p>Sou apaixonada pela área de <strong>Robótica</strong> e por programação backend!</p>
 
 
 **Meus interesses pessoais:**
