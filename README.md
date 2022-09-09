@@ -1,57 +1,48 @@
-### Olá 👋, me chamo Ivoneide Duarte!
-
-<!--<a href="">
-  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>-->
-<a href="https://www.instagram.com/ivoneide.duarte25/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/ivoneide.duarte.731/">
-  <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-<br />
-<br />
+### Olá, seja bem-vindo(a), me chamo Ivoneide Duarte!
+<br/>
 <p>Sou <strong>Técnica em Mecatrônica Industrial</strong> pela Instituição de ensino, CEPEP - Escola Técnica.</p>
-<p>Sou apaixonada pela área de <strong>Robótica</strong> e por programação backend!</p>
+<p>Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Instituição de ensino, Faculdade Lourenço Filho - FLF.</p>
+<p>AMO PROGRAMAR e desenvolver projetos robóticos! ❤️<p/>
 
+<br/>
 
-**Meus interesses pessoais:**
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivoneide-duarte-a2152b229/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/ivoneide.duarte25)
+[![Facebook](	https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ivoneide.duarte.731/)
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1620780167698.png" width="400px" />
+![Ivoneide GitHub stats](https://github-readme-stats.vercel.app/api?username=Ivoneideduarte&show_icons=true&theme=dracula)
 
-- 👩‍💻 Estou estudando front-end com **HTML5/CSS3/JS** e utilizo o **Framework Bootstrap**;
-- 👩‍💻 Também estou estudando back-end com **PHP/MySQL**;
-- 💼 Sou aficionada por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
-- 👾 Meus hobbies são: 
-  - Estudar sobre programação web, Arduino, ESP32 e RaspberryPi; 
-  - Também estudo sobre **Impressão 3D**, tenho uma Anet A8 e uma Ender 3 para me auxiliar nos meus projetos;
-  - Ler livros de programação e romances;
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img align="center" alt="BOOTSTRAP" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <!--<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>-->
+    <img align="center" alt="MariaDB" src=" https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+    <!--<img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>-->
+</div>
+<br/>
+
+## IDE
+
+<div style="display: inline_block"><br/> 
+    <img align="center" alt="eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+    <img align="center" alt="Arduino_IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+    <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+    <img align="center" alt="Netbeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
+
+</div>
+<br/>
+
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Envie um e-mail para contato.ivoneideduarte@gmail.com para entrar em contato comigo.
 - 📝 Veja meu <a href="https://docs.google.com/document/d/1-d5BYclSMEzv1pjqcW37vxsc-1gfNlBC5sNo_SRQLi4/edit?usp=sharing" target="_blank">Currículo</a> para mais informações.
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ivoneideduarte&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Ivoneide Duarte" />
-</p>
-
-**Linguagens e ferramentas:**  
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="30" height="30" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> 
-</p>
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ivoneideduarte" alt="Ivoneide Duarte" /> </p>
-
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
