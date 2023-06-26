@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo(a), me chamo Ivoneide Duarte!
 <br/>
 <p>Sou <strong>Técnica em Mecatrônica Industrial</strong> pela Instituição de ensino, CEPEP - Escola Técnica.</p>
-<p>Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Instituição de ensino, Faculdade Lourenço Filho - FLF.</p>
+<p>Estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> pela Instituição de ensino, Estácio.</p>
 <p>AMO PROGRAMAR e desenvolver projetos robóticos! ❤️<p/>
 <br/>
 
